@@ -7,10 +7,13 @@ An overview of features for Playnite extensions
 | ----------- | ----------------- | ----------------- | ---------------- | ------------ | 
 | Amazon      | •                 |                   |                  | •            | 
 | Battle.net  | •                 | •                 |                  | •            | 
-| Epic        | •                 | •                 |                  | •            | 
-| GOG         | •                 | •                 |                  | •            | 
+| Epic        | •                 | •                 |                  | •            |
+| GamersGate  | •[^d]             |                   |                  | •[^c]        |
+| GOG         | •                 | •                 |                  | •            |
+| Groupees    | •[^d]             |                   |                  | •[^c]        |
 | Humble      | •                 |                   |                  | •            | 
 | itch.io     | •                 | •                 |                  | •            |
+| Legacy Games| •[^a]             |                   |                  |              |
 | Oculus      | •[^a][^b]         | •                 |                  |              |
 | Origin      | •                 | •                 | •                | •            |
 | Steam       | •                 | •                 | •                | •            | 
@@ -22,6 +25,8 @@ An overview of features for Playnite extensions
 
 [^a]: Reads local client files. Requires you to start up the client to add new games.
 [^b]: Only Oculus Rift titles. This excludes native Oculus Quest (2) or Oculus Go titles.
+[^c]: Manual installation only: you are pointed to a download URL and can link the game to an installation folder once you've installed it.
+[^d]: Only the ones downloadable from the website (so excluding keys for Steam or other services)
 
 ## Official metadata support
 
