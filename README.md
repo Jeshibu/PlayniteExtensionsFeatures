@@ -24,12 +24,12 @@ This list is currently not yet complete, and fields marked with a question mark 
 | Humble Keys        | ?                   | ?                 |                  |              |
 | Indiegala          | ?                   | •                 |                  | ?            |
 | itch.io            | •                   | •                 |                  | •            |
-| JAST USA           | ?                   | ?                 |                  | ?            |
+| JAST USA           | •                   | •                 |                  |              |
 | Legacy Games       | •[^a]               |                   |                  |              |
 | Microsoft XCloud   | •                   | ?                 | ?                | ?            |
 | MultiMC            | ?                   | ?                 | ?                | ?            |
 | Nintendo           | •[^f]               |                   |                  |              |
-| NVIDIA GeForce Now | ?                   | ?                 | ?                | ?            |
+| NVIDIA GeForce Now | •                   |                   |                  |              |
 | Oculus             | •[^a][^b]           | •                 |                  |              |
 | Origin             | •[^e]               | •[^e]             | •[^e]            | •[^e]        |
 | Playstation        | •                   | •                 |                  |              |
