@@ -7,9 +7,9 @@ An overview of features for Playnite extensions
 | ----------- | ----------------- | ----------------- | ---------------- | ------------ | 
 | Amazon      | •                 |                   |                  | •            | 
 | Battle.net  | •                 | •                 |                  | •            | 
-| Epic        | •                 | •                 |                  | •            |
+| Epic        | •                 | •                 | •                | •            |
 | GamersGate  | •[^d]             |                   |                  | •[^c]        |
-| GOG         | •                 | •                 |                  | •            |
+| GOG         | •                 | •                 | •                | •            |
 | Groupees    | •[^d]             |                   |                  | •[^c]        |
 | Humble      | •                 |                   |                  | •            | 
 | itch.io     | •                 | •                 |                  | •            |
