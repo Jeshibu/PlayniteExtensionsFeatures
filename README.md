@@ -14,30 +14,33 @@ This list is currently not yet complete, and fields marked with a question mark 
 | ------------------ | ------------------- | ----------------- | ---------------- | ------------ |
 | Amazon             | •                   |                   |                  | •            |
 | Battle.net         | •                   | •                 |                  | •            |
-| Battlestate Games  | ?                   | ?                 | ?                | ?            |
+| Battlestate Games  | •[^g]               |                   |                  |              |
 | Epic               | •                   | •                 | •                | •            |
-| Fanatical          | ?                   | ?                 |                  |              |
+| Fanatical          | •                   |                   |                  |              |
+| GameJolt           |                     |                   |                  |              |
 | GamersGate         | •[^d]               |                   |                  | •[^c]        |
 | GOG                | •                   | •                 | •                | •            |
 | Groupees           | •[^d]               |                   |                  | •[^c]        |
 | Humble             | •                   |                   |                  | •            |
-| Humble Keys        | ?                   | ?                 |                  |              |
-| Indiegala          | ?                   | •                 |                  | ?            |
+| Humble Keys        | •                   |                   |                  |              |
+| Indiegala          | •                   | •                 |                  | ?            |
 | itch.io            | •                   | •                 |                  | •            |
 | JAST USA           | •                   | •                 |                  |              |
 | Legacy Games       | •[^a]               |                   |                  |              |
 | Microsoft XCloud   | •                   | ?                 | ?                | ?            |
-| MultiMC            | ?                   | ?                 | ?                | ?            |
+| MultiMC            | •                   | ?                 |                  |              |
 | Nintendo           | •[^f]               |                   |                  |              |
 | NVIDIA GeForce Now | •                   |                   |                  |              |
 | Oculus             | •[^a][^b]           | •                 |                  |              |
 | Origin             | •[^e]               | •[^e]             | •[^e]            | •[^e]        |
 | Playstation        | •                   | •                 |                  |              |
-| Riot Games         | ?                   | ?                 | ?                | ?            |
-| Rockstar Games     | ?                   | ?                 | ?                | ?            |
-| Space Station 13   | ?                   | ?                 | ?                | ?            |
+| RAWG               | •                   | •                 |                  |              |
+| Riot Games         | •                   | ?                 | ?                | ?            |
+| Rockstar Games     |                     |                   |                  | •            |
+| Space Station 13   | •[^g]               |                   |                  |              |
 | Steam              | •                   | •                 | •                | •            |
-| Ubisoft Connect    | •                   | •                 |                  | •            |
+| Ubisoft Connect    | •[^a]               | •                 |                  | •            |
+| Viveport           | •[^a]               |                   |                  |              |
 | Xbox               | •                   |                   | •                | •            |
 
 * Import of installed games is always supported
@@ -49,24 +52,27 @@ This list is currently not yet complete, and fields marked with a question mark 
 [^d]: Only the games downloadable from the website (so excluding keys for Steam or other services)
 [^e]: No support for the EA Desktop client (also known simply as EA).
 [^f]: Only games purchased in the last 2 years, via https://ec.nintendo.com/my/transactions/1
+[^g]: Imports all supported games on import regardless of actual ownership status
 
 ## Library metadata support
 The library extensions that have "Official metadata" in the table above can download metadata for the games from its own library. This is visible as a metadata provider named "Official Store" when applicable, in the mass metadata import window (ctrl+D) as well as at the bottom left of the game edit window.
 
-|                 | Icon  | Cover      | Background image | Description | User ratings |
-| --------------- | ----- | ---------- | ---------------- | ----------- | ------------ |
-| Battle.net      | •     | vert       | •                |             |              |
-| Epic            | •[^1] | vert       | •                | •           |              |
-| GOG             | •     | vert       | •                | •           | •            |
-| Humble          | •[^3] |            |                  |             |              |
-| IndieGala       |       | hor        | •                | •           |              |
-| itch.io         |       | hor        | •                | •           | •            |
-| Oculus          | •[^4] | square[^4] | •                | •           | •            |
-| Origin          | •[^1] | vert       | •                | •           |              |
-| Playstation[^5] | ?     | square     | ?                | ?           | ?            |
-| Steam[^5]       | •     | hor,vert   | •                | •           | •            |
-| Ubisoft Connect | •[^2] | vert[^6]   | •[^2]            |             |              |
-| Xbox            | •[^1] |            |                  |             |              |
+|                 | Icon  | Cover      | Background image | Description | User ratings | Install size |
+| --------------- | ----- | ---------- | ---------------- | ----------- | ------------ | ------------ |
+| Battle.net      | •     | vert       | •                |             |              |              |
+| Epic            | •[^1] | vert       | •                | •           |              |              |
+| GOG             | •     | vert       | •                | •           | •            | •            |
+| Humble          | •[^3] |            |                  |             |              |              |
+| IndieGala       |       | hor        | •                | •           |              |              |
+| itch.io         |       | hor        | •                | •           | •            |              |
+| JAST USA        | ?     | vert       | •                | •           |              |              |
+| Legacy Games    | •[^1] | square     |                  | •           |              | •            |
+| Oculus          | •[^4] | square[^4] | •                | •           | •            | •            |
+| Origin          | •[^1] | vert       | •                | •           |              |              |
+| Playstation[^5] | ?     | square     | ?                | ?           | ?            |              |
+| Steam[^5]       | •     | hor,vert   | •                | •           | •            |              |
+| Ubisoft Connect | •[^2] | vert[^6]   | •[^2]            |             |              |              |
+| Xbox            | •[^1] |            |                  |             |              |              |
 
 [^1]: Only if game is installed
 [^2]: Only if import of uninstalled games is enabled
