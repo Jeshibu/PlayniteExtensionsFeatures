@@ -26,7 +26,7 @@ This list is currently not yet complete, and fields marked with a question mark 
 | Indiegala          | •                   | •                 |                  | ?            |
 | itch.io            | •                   | •                 |                  | •            |
 | JAST USA           | •                   | •                 |                  |              |
-| Legacy Games       | •[^a]               |                   |                  |              |
+| Legacy Games       | •[^a]               |                   |                  | •            |
 | Microsoft XCloud   | •                   | ?                 | ?                | ?            |
 | MultiMC            | •                   | ?                 |                  |              |
 | Nintendo           | •[^f]               |                   |                  |              |
@@ -57,22 +57,23 @@ This list is currently not yet complete, and fields marked with a question mark 
 ## Library metadata support
 The library extensions that have "Official metadata" in the table above can download metadata for the games from its own library. This is visible as a metadata provider named "Official Store" when applicable, in the mass metadata import window (ctrl+D) as well as at the bottom left of the game edit window.
 
-|                 | Icon  | Cover      | Background image | Description | User ratings | Install size |
-| --------------- | ----- | ---------- | ---------------- | ----------- | ------------ | ------------ |
-| Battle.net      | •     | vert       | •                |             |              |              |
-| Epic            | •[^1] | vert       | •                | •           |              |              |
-| GOG             | •     | vert       | •                | •           | •            | •            |
-| Humble          | •[^3] |            |                  |             |              |              |
-| IndieGala       |       | hor        | •                | •           |              |              |
-| itch.io         |       | hor        | •                | •           | •            |              |
-| JAST USA        | ?     | vert       | •                | •           |              |              |
-| Legacy Games    | •[^1] | square     |                  | •           |              | •            |
-| Oculus          | •[^4] | square[^4] | •                | •           | •            | •            |
-| Origin          | •[^1] | vert       | •                | •           |              |              |
-| Playstation[^5] | ?     | square     | ?                | ?           | ?            |              |
-| Steam[^5]       | •     | hor,vert   | •                | •           | •            |              |
-| Ubisoft Connect | •[^2] | vert[^6]   | •[^2]            |             |              |              |
-| Xbox            | •[^1] |            |                  |             |              |              |
+|                 | Icon  | Cover      | Background image | Description | User ratings | Install size | Tags |
+| --------------- | ----- | ---------- | ---------------- | ----------- | ------------ | ------------ | ---- |
+| Battle.net      | •     | vert       | •                |             |              |              |      |
+| Epic            | •[^1] | vert       | •                | •           |              |              |      |
+| GOG             | •     | vert       | •                | •           | •            | •            | •    |
+| Humble          | •[^3] |            |                  |             |              |              |      |
+| IndieGala       |       | hor        | •                | •           |              |              |      |
+| itch.io         |       | hor        | •                | •           | •            |              |      |
+| JAST USA        | ?     | vert       | •                | •           |              |              |      |
+| Legacy Games    | •[^1] | square     |                  | •           |              | •            |      |
+| Oculus          | •[^4] | square[^4] | •                | •           | •            | •            |      |
+| Origin          | •[^1] | vert       | •                | •           |              |              |      |
+| Playstation[^5] | ?     | square     | ?                | ?           | ?            |              |      |
+| RAWG[^5]        |       |            | •                | •           | •            |              | •    |
+| Steam[^5]       | •     | hor,vert   | •                | •           | •            |              | •    |
+| Ubisoft Connect | •[^2] | vert[^6]   | •[^2]            |             |              |              |      |
+| Xbox            | •[^1] |            |                  |             |              |              |      |
 
 [^1]: Only if game is installed
 [^2]: Only if import of uninstalled games is enabled
