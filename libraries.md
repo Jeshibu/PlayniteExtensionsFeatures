@@ -38,9 +38,10 @@
 * Playnite does not make any games available for free, nor does it support piracy.
 * The console library extensions (Nintendo, Playstation) do not enable you to play their games on PC. These are here solely for organization and management. The exception is Xbox, which while it does not enable you to play Xbox-console only games, does have many games available for PC.
 
-[Overview](./README.md)
-[Library plugin metadata](./librarymetadata.md)
-[Install these plugins here](https://playnite.link/addons.html)
+
+* [Overview](./README.md)
+* [Library plugin metadata](./librarymetadata.md)
+* [Install these plugins here](https://playnite.link/addons.html)
 
 [^a]: Reads local client files. Requires you to start up the client to add new games.
 [^b]: Only Oculus Rift titles. This excludes native Oculus Quest (2) or Oculus Go titles.

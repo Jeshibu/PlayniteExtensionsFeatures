@@ -19,9 +19,9 @@
 | SteamGridDB              | •    | hor,vert,square | •                |             |              |              |      |
 | VNDB                     |      | unknown format  | •                | •           | •            |              | •    |
 
-[Overview](./README.md)
-[Library metadata](./librarymetadata.md)
-[Install these plugins here](https://playnite.link/addons.html)
+* [Overview](./README.md)
+* [Library metadata](./librarymetadata.md)
+* [Install these plugins here](https://playnite.link/addons.html)
 
 [^1]: Adult games only
 [^2]: Wii and GameCube games only
