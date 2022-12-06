@@ -23,7 +23,7 @@ This list is currently not yet complete, and fields marked with a question mark 
 | Groupees           | •[^d]               |                   |                  | •[^c]        |
 | Humble             | •                   |                   |                  | •            |
 | Humble Keys        | •                   |                   |                  |              |
-| Indiegala          | •                   | •                 |                  | ?            |
+| Indiegala          | •                   | •                 |                  | •            |
 | itch.io            | •                   | •                 |                  | •            |
 | JAST USA           | •                   | •                 |                  |              |
 | Legacy Games       | •[^a]               |                   |                  | •            |
