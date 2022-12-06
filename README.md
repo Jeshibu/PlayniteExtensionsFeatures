@@ -1,12 +1,14 @@
 # Playnite extensions features
-An overview of features for Playnite library extensions. Library extensions allow you to import games from other services/websites/clients/consoles.
-
-* You will still need the original game clients like Steam or Ubisoft Connect or Origin.
-* Playnite does not make any games available for free, nor does it support piracy.
-* The console library extensions (Nintendo, Playstation) do not enable you to play their games on PC. These are here solely for organization and management. The exception is Xbox, which while it does not enable you to play Xbox-console only games, does have many games available for PC.
+An overview of features for Playnite extensions.
 
 ## Contributing
-This list is currently not yet complete, and fields marked with a question mark (?) I have not yet had the time to research or confirm. Feel free to contribute by filling those in, or adding columns or rows to the tables, or fixing typos in a pull request.
+These tables are not yet complete, and fields marked with a question mark (?) I have not yet had the time to research or confirm. Feel free to contribute by filling those in, or adding columns or rows to the tables, or fixing typos in a pull request.
+
+# Libraries
+ Library extensions allow you to import games from other services/websites/clients/consoles.
+ ### [Library feature table](./libraries.md)
+ ### [Library metadata table](./librarymetadata.md)
+ 
 
 ## General features
 
