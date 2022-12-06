@@ -27,7 +27,10 @@ The library extensions that have "Official metadata" in [this table](./libraries
 [^5]: Also available as a [separate metadata source extension](./metadata.md) (for games that weren't imported by these library extensions)
 [^6]: 240x280, which is barely vertical and almost square
 
-* [Overview](./README.md)
-* [Library plugins](./libraries.md)
-* [General metadata plugins](./metadata.md)
-* [Install these plugins here](https://playnite.link/addons.html)
+[Overview](./README.md)
+
+[Library plugins](./libraries.md)
+
+[General metadata plugins](./metadata.md)
+
+[Install these plugins here](https://playnite.link/addons.html)
