@@ -14,7 +14,7 @@ The library extensions that have "Official metadata" in [this table](./libraries
 | JAST USA        |       | vert       | •                | •           |              |              |      |
 | Legacy Games    | •[^1] | square     |                  | •           |              | •            |      |
 | Oculus          | •[^4] | square[^4] | •                | •           | •            | •            | •    |
-| Origin          | •[^1] | vert       | •                | •           |              |              |      |
+| EA              | •[^1] | vert       | •                | •           |              |              |      |
 | RAWG[^5]        |       |            | •                | •           | •            |              | •    |
 | Steam[^5]       | •     | hor,vert   | •                | •           | •            |              | •    |
 | Ubisoft Connect | •[^2] | vert[^6]   | •[^2]            |             |              |              |      |

@@ -23,7 +23,7 @@
 | Nintendo           |                 | •[^f]               |                   |                      |              |
 | NVIDIA GeForce Now | •[^i]           | •                   |                   |                      |              |
 | Oculus             | •               | •[^a][^b]           | •                 |                      |              |
-| Origin             | •               | •[^e]               | •[^e]             | •[^e]                | •[^e]        |
+| EA                 | •               | •[^e]               | •[^e]             | •[^e]                | •[^e]        |
 | Playstation        |                 | •                   |                   |                      |              |
 | RAWG               | •               | •                   | •                 |                      |              |
 | Riot Games         | •               | •                   | ?                 | ?                    | ?            |
@@ -34,7 +34,7 @@
 | Viveport           | •               | •[^a]               |                   |                      |              |
 | Xbox               | •               | •                   |                   | •                    | •            |
 
-* You will still need the original game clients like Steam or Ubisoft Connect or Origin.
+* You will still need the original game clients like Steam or Ubisoft Connect or EA.
 * Playnite does not make any games available for free, nor does it support piracy.
 * The console library extensions (Nintendo, Playstation) do not enable you to play their games on PC. These are here solely for organization and management. The exception is Xbox, which while it does not enable you to play Xbox-console only games, does have many games available for PC.
 

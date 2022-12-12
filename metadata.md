@@ -17,7 +17,7 @@
 | Screenscraper.fr         | •    | unknown format  | •                | •           |              |              |      |
 | Steam                    | •    | hor,vert        | •                | •           | •            |              | •    |
 | SteamGridDB              | •    | hor,vert,square | •                |             |              |              |      |
-| VNDB                     |      | unknown format  | •                | •           | •            |              | •    |
+| VNDB                     |      | vert            | •                | •           | •            |              | •    |
 
 [Overview](./README.md)
 
