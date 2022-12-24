@@ -23,7 +23,7 @@
 | Nintendo           |                 | •[^f]               |                   |                      |              |
 | NVIDIA GeForce Now | •[^i]           | •                   |                   |                      |              |
 | Oculus             | •               | •[^a][^b]           | •                 |                      |              |
-| EA                 | •               | •[^e]               | •[^e]             | •[^e]                | •[^e]        |
+| EA                 | •               | •[^e]               | •                 | •                    | •            |
 | Playstation        |                 | •                   |                   |                      |              |
 | RAWG               | •               | •                   | •                 |                      |              |
 | Riot Games         | •               | •                   | ?                 | ?                    | ?            |
@@ -49,7 +49,7 @@
 [^b]: Only Oculus Rift titles. This excludes native Oculus Quest (2) or Oculus Go titles.
 [^c]: Manual installation only: you are pointed to a download URL and can link the game to an installation folder once you've installed it.
 [^d]: Only the games downloadable from the website (so excluding keys for Steam or other services)
-[^e]: No support for the EA Desktop client (also known simply as EA).
+[^e]: No support for the EA Play games (subscription)
 [^f]: Only games purchased in the last 2 years, via https://ec.nintendo.com/my/transactions/1
 [^g]: Imports all supported games on import regardless of actual ownership status
 [^h]: Play time is always tracked when launched through Playnite
