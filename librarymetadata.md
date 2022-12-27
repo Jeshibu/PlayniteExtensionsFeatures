@@ -5,6 +5,7 @@ The library extensions that have "Official metadata" in [this table](./libraries
 |                 | Icon  | Cover      | Background image | Description | User ratings | Install size | Tags |
 | --------------- | ----- | ---------- | ---------------- | ----------- | ------------ | ------------ | ---- |
 | Battle.net      | •     | vert       | •                |             |              |              |      |
+| EA              | •[^1] | vert       | •                | •           |              |              |      |
 | Epic            | •[^1] | vert       | •                | •           |              |              |      |
 | GOG             | •     | vert       | •                | •           | •            | •            | •    |
 | Game Jolt       | •[^1] | hor        | •                | •           |              |              |      |
@@ -14,8 +15,8 @@ The library extensions that have "Official metadata" in [this table](./libraries
 | JAST USA        |       | vert       | •                | •           |              |              |      |
 | Legacy Games    | •[^1] | square     |                  | •           |              | •            |      |
 | Oculus          | •[^4] | square[^4] | •                | •           | •            | •            | •    |
-| EA              | •[^1] | vert       | •                | •           |              |              |      |
 | RAWG[^5]        |       |            | •                | •           | •            |              | •    |
+| Robot Cache     | •     | vert       | •                | •           |              | •            | ?    |
 | Steam[^5]       | •     | hor,vert   | •                | •           | •            |              | •    |
 | Ubisoft Connect | •[^2] | vert[^6]   | •[^2]            |             |              |              |      |
 | Xbox            | •[^1] |            |                  |             |              |              |      |

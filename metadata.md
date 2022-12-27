@@ -8,6 +8,7 @@
 | Fanza[^1]                | •    | unknown format  | •                |             |              |              | •    |
 | Games Size Calculator    |      |                 |                  |             |              | •            |      |
 | GameTDB[^2]              |      | unknown format  |                  | •           |              |              |      |
+| Giant Bomb               |      | vert            | •                | •           |              |              | •    |
 | IGDB                     |      | vert            | •                | •           | •            |              |      |
 | IGN                      |      | square          |                  | •           |              |              |      |
 | MetadataLocal            |      |                 |                  | •           |              |              |      |

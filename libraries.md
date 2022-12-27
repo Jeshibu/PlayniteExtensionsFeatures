@@ -6,6 +6,7 @@
 | Anilist            |                 |                     |                   |                      |              |
 | Battle.net         | •               | •                   | •                 |                      | •            |
 | Battlestate Games  | •               | •[^g]               |                   |                      |              |
+| EA                 | •               | •[^e]               | •                 | •                    | •            |
 | Epic               | •               | •                   | •                 | •                    | •            |
 | Fanatical          |                 | •                   |                   |                      |              |
 | Game Jolt          | •               |                     | •                 |                      |              |
@@ -23,10 +24,10 @@
 | Nintendo           |                 | •[^f]               |                   |                      |              |
 | NVIDIA GeForce Now | •[^i]           | •                   |                   |                      |              |
 | Oculus             | •               | •[^a][^b]           | •                 |                      |              |
-| EA                 | •               | •[^e]               | •                 | •                    | •            |
 | Playstation        |                 | •                   |                   |                      |              |
 | RAWG               | •               | •                   | •                 |                      |              |
 | Riot Games         | •               | •                   | ?                 | ?                    | ?            |
+| Robot Cache        | •               | •                   | •                 | ?                    | ?            |
 | Rockstar Games     | •               |                     |                   |                      | •            |
 | Space Station 13   | •               | •[^g]               |                   |                      |              |
 | Steam              | •               | •                   | •                 | •                    | •            |
