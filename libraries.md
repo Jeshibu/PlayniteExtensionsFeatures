@@ -9,7 +9,7 @@
 | EA                 | •               | •[^e]               | •                 | •                    | •            |
 | Epic               | •               | •                   | •                 | •                    | •            |
 | Fanatical          |                 | •                   |                   |                      |              |
-| Game Jolt          | •               |                     | •                 |                      |              |
+| Game Jolt          | •               | •[^j]               | •                 |                      |              |
 | GamersGate         | •               | •[^d]               |                   |                      | •[^c]        |
 | GOG                | •               | •                   | •                 | •                    | •            |
 | Groupees           | •               | •[^d]               |                   |                      | •[^c]        |
@@ -55,3 +55,4 @@
 [^g]: Imports all supported games on import regardless of actual ownership status
 [^h]: Play time is always tracked when launched through Playnite
 [^i]: Not strictly speaking installed, but playable via streaming
+[^j]: Only games that were purchased, as there is no ownership for free games
