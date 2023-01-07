@@ -4,7 +4,7 @@
 No. Playnite only allows you to have a centralized list of games that you can organize and start from one place. Replacing clients is not and hasn't been part of the aims of the project.
 
 ## What's the point of the Playstation and Nintendo library plugins? Can I play those games on PC with them?
-You can't play those games on PC via those plugins. These library plugins are meant for game library management, for example to track which games you already own.
+No, you cannot play those games on PC via those plugins. They are meant for game library management, for example to track which games you already own.
 
 ## How do I import playtime?
 For library plugins that support it, you can let them dictate the total playtime for your games in Playnite.
