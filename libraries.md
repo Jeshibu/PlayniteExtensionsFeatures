@@ -32,7 +32,7 @@
 | Space Station 13   | •               | •[^g]               |                   |                      |              |
 | Steam              | •               | •                   | •                 | •                    | •            |
 | Ubisoft Connect    | •               | •[^a]               | •                 |                      | •            |
-| Viveport           | •               | •[^a]               |                   |                      |              |
+| Viveport           | •               | •[^a]               | •                 |                      |              |
 | Xbox               | •               | •                   |                   | •                    | •            |
 
 * You will still need the original game clients like Steam or Ubisoft Connect or EA.
