@@ -8,9 +8,10 @@
 | Fanza[^1]                | •    | unknown format  | •                |             |              |              | •    |                    |
 | Games Size Calculator    |      |                 |                  |             |              | •            |      |                    |
 | GameTDB[^2]              |      | unknown format  |                  | •           |              |              |      |                    |
-| Giant Bomb               |      | vert            | •                | •           |              |              | •    |                    |
+| Giant Bomb               |      | mostly vert     | •                | •           |              |              | •    |                    |
 | IGDB                     |      | vert            | •                | •           | •            |              |      |                    |
 | IGN                      |      | square          |                  | •           |              |              |      |                    |
+| LaunchBox                |      | per platform    | •                | •           | •            |              |      |                    |
 | MetadataLocal            |      |                 |                  | •           |              |              |      |                    |
 | PCGamingWiki             |      |                 |                  |             |              |              | •    |                    |
 | Playstation              |      | square          |                  |             |              |              |      |                    |
@@ -19,6 +20,8 @@
 | Steam                    | •    | hor,vert        | •                | •           | •            |              | •    | •                  |
 | SteamGridDB              | •    | hor,vert,square | •                |             |              |              |      |                    |
 | VNDB                     |      | vert            | •                | •           | •            |              | •    |                    |
+| Wikipedia                |      | varies          |                  | •           |              |              | •    |                    |
+| Xbox                     |      | vert,square     | •                | •           | •            | •            |      |                    |
 
 [Overview](./README.md)
 
