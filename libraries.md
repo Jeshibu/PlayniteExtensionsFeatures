@@ -24,7 +24,7 @@
 | Nintendo           |                 | •[^f]               |                   |                      |              |
 | NVIDIA GeForce Now | •[^i]           | •                   |                   |                      |              |
 | Oculus             | •               | •[^a][^b]           | •                 |                      |              |
-| Playstation        |                 | •                   |                   |                      |              |
+| Playstation        |                 | •                   |                   | •[^k]                |              |
 | RAWG               | •               | •                   | •                 |                      |              |
 | Riot Games         | •               | •                   | ?                 | ?                    | ?            |
 | Robot Cache        | •               | •                   | •                 | ?                    | ?            |
@@ -56,3 +56,4 @@
 [^h]: Play time is always tracked when launched through Playnite
 [^i]: Not strictly speaking installed, but playable via streaming
 [^j]: Only games that were purchased, as there is no ownership for free games
+[^k]: Playtime available only for PS4 and PS5 games
