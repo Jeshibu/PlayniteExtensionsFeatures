@@ -7,7 +7,7 @@
 | Battle.net         | •               | •                   | •                 |                      | •            |
 | Battlestate Games  | •               | •[^g]               |                   |                      |              |
 | EA                 | •               | •[^e]               | •                 | •                    | •            |
-| Epic               | •               | •                   | •                 | •                    | •            |
+| Epic               | •               | •                   |                   | •                    | •            |
 | Fanatical          |                 | •                   |                   |                      |              |
 | Game Jolt          | •               | •[^j]               | •                 |                      |              |
 | GamersGate         | •               | •[^d]               |                   |                      | •[^c]        |
