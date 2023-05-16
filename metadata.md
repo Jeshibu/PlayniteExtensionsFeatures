@@ -14,14 +14,14 @@
 | LaunchBox                | •[^3][^4] | per platform[^4]    | •[^4]            | •           | •            |              |       |                    |
 | MetadataLocal            |           |                     |                  | •           |              |              |       |                    |
 | MobyGames                |           | •                   | •                | •           |              |              | •[^4] |                    |
-| PCGamingWiki             |           |                     |                  |             |              |              | •     |                    |
+| PCGamingWiki             |           |                     |                  |             |              |              | •[^4] |                    |
 | Playstation              |           | square              |                  |             |              |              |       |                    |
 | RAWG                     |           |                     | •                | •           | •            |              | •     |                    |
 | Screenscraper.fr         | •         | unknown format      | •                | •           |              |              |       |                    |
 | Steam                    | •         | hor,vert            | •                | •           | •            |              | •[^4] | •                  |
 | SteamGridDB              | •         | hor,vert,square[^4] | •[^4]            |             |              |              |       |                    |
 | VNDB                     |           | vert                | •                | •           | •            |              | •     |                    |
-| Wikipedia                |           | varies              |                  | •           |              |              | •     |                    |
+| Wikipedia                |           | varies              |                  | •[^4]       |              |              | •[^4] |                    |
 | Xbox                     |           | vert,square[^4]     | •[^4]            | •           | •            | •            |       |                    |
 
 [Overview](./README.md)
