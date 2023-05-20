@@ -1,14 +1,16 @@
 # Frequently Asked Questions
 
 ## Does Playnite replace clients like Steam/Epic/EA/Ubisoft Connect?
-No. Playnite only allows you to have a centralized list of games that you can organize and start from one place. Replacing clients is not and hasn't been part of the aims of the project.
+No. Playnite only allows you to have a centralized list of games that you can organize and start from one place. Replacing clients has never been part of the aims of the project. You'll still need Steam to download and install Steam games, and the same goes for every other client. The only exception is Indiegala, which allows you to download and install their DRM free games from within Playnite.
 
 ## What's the point of the Playstation and Nintendo library plugins? Can I play those games on PC with them?
 No, you cannot play those games on PC via those plugins. They are meant for game library management, for example to track which games you already own.
 
 ## How do I import playtime?
 For library plugins that support it, you can let them dictate the total playtime for your games in Playnite.
-Check [this table](./libraries.md)'s `Play time import` column to see which libraries support this.
+Check the `Play time import` column in the table linked below to see which libraries support this.
+
+[***CLICK HERE TO SEE A COMPARISON TABLE FOR WHAT LIBRARY PLUGINS CAN PROVIDE WHAT DATA***](./libraries.md)
 
 1. Go to `main menu > Settings > General` and set `Import playtime of games in library` to `Always`
 2. Click `main menu > Update Game Library > Update All` to import your games again so they'll get updated with the correct playtimes
@@ -19,7 +21,7 @@ Make sure your Steam profile is public:
 2. Click `Edit Profile`
 3. Click `Privacy Settings`
 4. Make sure `My profile` and `Game details` are both set to `Public`
-5. Make sure `Always keep my total playtime private even if users can see my game details` is checked
+5. Make sure `Always keep my total playtime private even if users can see my game details` is not checked
 6. In Playnite, click `main menu > Update Game Library > Update All` to import your games again
 
 Alternatively, set a Steam API key:
@@ -50,7 +52,9 @@ Metadata is all the data Playnite has on a game. Things like cover image, descri
 To get metadata for games automatically, there are several metadata provider plugins available in Playnite. The steps below will lead you through installing, configuring, and using them.
 
 ### Installing metadata provider plugins
-To decide which metadata providers you want to use, you can reference [this table](./metadata.md) to see what data you can expect.
+To decide which metadata providers you want to use, you can reference the table linked below to see what data you can expect from each plugin.
+
+[***CLICK HERE TO SEE A COMPARISON TABLE FOR WHAT METADATA PLUGINS CAN PROVIDE WHAT DATA***](./metadata.md)
 
 1. Go to `main menu > Add-ons > Browse > Metadata Sources`
 2. For each of the plugins you want, select them and click `Install` on the right
