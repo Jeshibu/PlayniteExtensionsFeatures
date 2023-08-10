@@ -55,5 +55,5 @@
 [^g]: Imports all supported games on import regardless of actual ownership status
 [^h]: Play time is always tracked when launched through Playnite
 [^i]: Not strictly speaking installed, but playable via streaming
-[^j]: Only games that were purchased, as there is no ownership for free games
+[^j]: Only games that were purchased, as there is no ownership for free games. But games followed on Game Jolt can be treated as owned if enabled in settings.
 [^k]: Playtime available only for PS4 and PS5 games
