@@ -9,6 +9,7 @@
 | Games Size Calculator    |           |                     |                  |             |              | •            |       |                    |
 | GameTDB[^2]              |           | unknown format      |                  | •           |              |              |       |                    |
 | Giant Bomb               |           | mostly vert         | •                | •           |              |              | •[^4] |                    |
+| GOG                      | •         | hor,vert[^4]        | •                | •           | •            | •            | •     | •                  |
 | IGDB                     |           | vert                | •                | •           | •            |              |       |                    |
 | IGN                      |           | square              |                  | •           |              |              |       |                    |
 | LaunchBox                | •[^3][^4] | per platform[^4]    | •[^4]            | •           | •            |              |       |                    |
@@ -18,7 +19,7 @@
 | Playstation              |           | square              |                  |             |              |              |       |                    |
 | RAWG                     |           |                     | •                | •           | •            |              | •     |                    |
 | Screenscraper.fr         | •         | unknown format      | •                | •           |              |              |       |                    |
-| Steam                    | •         | hor,vert            | •                | •           | •            |              | •[^4] | •                  |
+| Steam                    | •         | hor,vert[^4]        | •                | •           | •            |              | •[^4] | •                  |
 | SteamGridDB              | •         | hor,vert,square[^4] | •[^4]            |             |              |              |       |                    |
 | VNDB                     |           | vert                | •                | •           | •            |              | •     |                    |
 | Wikipedia                |           | varies              |                  | •[^4]       |              |              | •[^4] |                    |
