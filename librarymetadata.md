@@ -7,7 +7,7 @@ The library extensions that have "Official metadata" in [this table](./libraries
 | Battle.net      | •     | vert                | •                |             |              |              |      |                    |
 | EA              | •[^1] | vert                | •                | •           |              |              |      |                    |
 | Epic            | •[^1] | vert                | •                | •           |              |              |      |                    |
-| GOG             | •     | hor,vert            | •                | •           | •            | •            | •    | •                  |
+| GOG[^5]         | •     | hor,vert            | •                | •           | •            | •            | •    | •                  |
 | Game Jolt       | •[^1] | hor                 | •                | •           |              |              |      |                    |
 | Humble          | •[^3] |                     |                  |             |              |              |      |                    |
 | IndieGala       |       | hor                 | •                | •           |              |              |      |                    |
@@ -20,7 +20,7 @@ The library extensions that have "Official metadata" in [this table](./libraries
 | Steam[^5]       | •     | hor,vert            | •                | •           | •            |              | •    | •                  |
 | Ubisoft Connect | •[^2] | vert[^6]            | •[^2]            |             |              |              |      |                    |
 | Viveport        |       | hor,vert,square[^7] | •[^7]            | •           |              | •[^7]        |      |                    |
-| Xbox            | •[^1] |                     |                  |             |              |              |      |                    |
+| Xbox[^5]        | •[^1] |                     |                  |             |              |              |      |                    |
 
 [^1]: Only if game is installed
 [^2]: Only if import of uninstalled games is enabled
