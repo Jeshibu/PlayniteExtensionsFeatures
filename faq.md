@@ -17,7 +17,7 @@ Check the `Play time import` column in the table linked below to see which libra
 
 ### Steam specific playtime troubleshooting
 Make sure your Steam profile is public:
-1. Go to your Steam profile page
+1. Go to your [Steam profile page](https://steamcommunity.com/my/profile)
 2. Click `Edit Profile`
 3. Click `Privacy Settings`
 4. Make sure `My profile` and `Game details` are both set to `Public`
