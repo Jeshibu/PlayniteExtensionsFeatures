@@ -95,3 +95,13 @@ If you want to correct some metadata by pulling from a specific provider:
 10. If you decide any of that new data is bad, you can decide not to save the changes to that field by clicking the checkbox to the left of it
 11. Click `Save` in the "Edit Game Details" window
 
+## Library authentication issues troubleshooting
+If you're seeing issues with your user being logged out constantly, one of the things you can try is to fully clear out the plugin and web cache.
+
+1. First, find the plugin that causes issues in add-ons menu in the installed section and go to the 'Data folder':
+![Installed add-ons](faq_screenshots/auth_reset-1.png "Installed add-ons")
+
+2. Then, delete all the files in opened folder.
+3. Then, go to Playnite Advanced settings and hit 'Clear web cache':
+![Clear web cache](faq_screenshots/auth_reset-2.png "Clear web cache")
+4. Playnite will restart, and you can try re-authenticating the plugin. If issues still occur, report it to plugins author.
