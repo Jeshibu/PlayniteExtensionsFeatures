@@ -14,9 +14,9 @@
 | IGN                      |           | square              |                  | •           |              |              |       |                    |
 | LaunchBox                | •[^3][^4] | per platform[^4]    | •[^4]            | •           | •            |              |       |                    |
 | MetadataLocal            |           |                     |                  | •           |              |              |       |                    |
-| MobyGames                |           | •                   | •                | •           |              |              | •[^4] |                    |
+| MobyGames                |           | varies              | •                | •           |              |              | •[^4] |                    |
 | PCGamingWiki             |           |                     |                  |             |              |              | •[^4] |                    |
-| Playstation              |           | square              |                  |             |              |              |       |                    |
+| Playstation              | •[^5]     | square              |                  |             |              |              |       |                    |
 | RAWG                     |           |                     | •                | •           | •            |              | •     |                    |
 | Screenscraper.fr         | •         | unknown format      | •                | •           |              |              |       |                    |
 | Steam                    | •         | hor,vert[^4]        | •                | •           | •            |              | •[^4] | •                  |
@@ -35,3 +35,4 @@
 [^2]: Wii and GameCube games only
 [^3]: Not traditional icons; the only image type that sort of makes sense is clear logos here
 [^4]: Configurable
+[^5]: Using the same image as the game's cover

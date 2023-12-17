@@ -6,6 +6,7 @@
 | Anilist            |                 |                     |                   |                      |              |
 | Battle.net         | •               | •                   | •                 |                      | •            |
 | Battlestate Games  | •               | •[^g]               |                   |                      |              |
+| Big Fish           | •               |                     |                   |                      |              |
 | EA                 | •               | •[^e]               | •                 | •                    | •            |
 | Epic               | •               | •                   |                   | •                    | •            |
 | Fanatical          |                 | •                   |                   |                      |              |
@@ -18,12 +19,14 @@
 | Indiegala          | •               | •                   | •                 |                      | •            |
 | itch.io            | •               | •                   | •                 |                      | •            |
 | JAST USA           | •               | •                   | •                 |                      |              |
+| LANCommander       | •               | •                   |                   |                      | •            |
 | Legacy Games       | •               | •[^a]               |                   |                      | •            |
-| Microsoft XCloud   | •[^i]           | •                   | ?                 | ?                    | ?            |
+| Legendary          | •               | •                   | •                 | •                    | •            |
+| Microsoft XCloud   | •[^i]           | •                   | ?                 | ?                    |              |
 | MultiMC            | •               | •                   | ?                 |                      |              |
 | Nintendo           |                 | •[^f]               |                   |                      |              |
 | NVIDIA GeForce Now | •[^i]           | •                   |                   |                      |              |
-| Oculus             | •               | •[^a][^b]           | •                 |                      |              |
+| Oculus             | •               | •                   | •                 |                      |              |
 | Playstation        |                 | •                   |                   | •[^k]                |              |
 | RAWG               | •               | •                   | •                 |                      |              |
 | Riot Games         | •               | •                   | ?                 | ?                    | ?            |
@@ -47,7 +50,6 @@
 [Install these plugins here](https://playnite.link/addons.html)
 
 [^a]: Reads local client files. Requires you to start up the client to add new games.
-[^b]: Only Oculus Rift titles. This excludes native Oculus Quest (2) or Oculus Go titles.
 [^c]: Manual installation only: you are pointed to a download URL and can link the game to an installation folder once you've installed it.
 [^d]: Only the games downloadable from the website (so excluding keys for Steam or other services)
 [^e]: No support for the EA Play games (subscription)
