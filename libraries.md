@@ -5,7 +5,6 @@
 | Amazon             | •               | •                   |                   |                      | •            |
 | Anilist            |                 |                     |                   |                      |              |
 | Battle.net         | •               | •                   | •                 |                      | •            |
-| Battlestate Games  | •               | •[^g]               |                   |                      |              |
 | Big Fish           | •               |                     |                   |                      |              |
 | EA                 | •               | •[^e]               | •                 | •                    | •            |
 | Epic               | •               | •                   |                   | •                    | •            |
@@ -29,10 +28,8 @@
 | Oculus             | •               | •                   | •                 |                      |              |
 | Playstation        |                 | •                   |                   | •[^k]                |              |
 | RAWG               | •               | •                   | •                 |                      |              |
-| Riot Games         | •               | •                   | ?                 | ?                    | ?            |
 | Robot Cache        | •               | •                   | •                 | ?                    | ?            |
 | Rockstar Games     | •               |                     |                   |                      | •            |
-| Space Station 13   | •               | •[^g]               |                   |                      |              |
 | Steam              | •               | •                   | •                 | •                    | •            |
 | Ubisoft Connect    | •               | •[^a]               | •                 |                      | •            |
 | Viveport           | •               | •[^a]               | •                 |                      |              |
@@ -54,7 +51,6 @@
 [^d]: Only the games downloadable from the website (so excluding keys for Steam or other services)
 [^e]: No support for the EA Play games (subscription)
 [^f]: Only games purchased in the last 2 years, via https://ec.nintendo.com/my/transactions/1
-[^g]: Imports all supported games on import regardless of actual ownership status
 [^h]: Play time is always tracked when launched through Playnite
 [^i]: Not strictly speaking installed, but playable via streaming
 [^j]: Only games that were purchased, as there is no ownership for free games. But games followed on Game Jolt can be treated as owned if enabled in settings.
