@@ -7,8 +7,8 @@ The library extensions that have "Official metadata" in [this table](./libraries
 | Battle.net      | •     | vert                | •                |             |              |              |      |                    |
 | EA              | •[^1] | vert                | •                | •           |              |              |      |                    |
 | Epic            | •[^1] | vert                | •                | •           |              |              |      |                    |
-| GOG[^5]         | •     | hor,vert            | •                | •           | •            | •            | •    | •                  |
 | Game Jolt       | •[^1] | hor                 | •                | •           |              |              |      |                    |
+| GOG[^5]         | •     | hor,vert            | •                | •           | •            | •            | •    | •                  |
 | Humble          | •[^3] |                     |                  |             |              |              |      |                    |
 | IndieGala       |       | hor                 | •                | •           |              |              |      |                    |
 | itch.io         |       | hor                 | •                | •           | •            |              |      |                    |
