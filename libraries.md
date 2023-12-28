@@ -12,6 +12,7 @@
 | Game Jolt          | •               | •[^j]               | •                 |                      |              |
 | GamersGate         | •               | •[^d]               |                   |                      | •[^c]        |
 | GOG                | •               | •                   | •                 | •                    | •            |
+| Google Play Games  | •               |                     | •                 |                      |              |
 | Groupees           | •               | •[^d]               |                   |                      | •[^c]        |
 | Humble             | •               | •                   |                   |                      | •            |
 | Humble Keys        |                 | •                   |                   |                      |              |
