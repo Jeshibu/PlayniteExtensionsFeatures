@@ -4,35 +4,47 @@
 | ------------------ | --------------- | ------------------- | ----------------- | -------------------- | ------------ |
 | Amazon             | •               | •                   |                   |                      | •            |
 | Anilist            |                 |                     |                   |                      |              |
+| ATLauncher[^l]     | •               |                     | •                 |                      |              |
 | Battle.net         | •               | •                   | •                 |                      | •            |
 | Big Fish           | •               |                     |                   |                      |              |
-| EA                 | •               | •[^e]               | •                 | •                    | •            |
+| DLsite             |                 | •                   | •                 |                      |              |
+| EmuLibrary         | •               | •                   |                   |                      | •            |
 | Epic               | •               | •                   |                   | •                    | •            |
 | Fanatical          |                 | •                   |                   |                      |              |
 | Game Jolt          | •               | •[^j]               | •                 |                      |              |
 | GamersGate         | •               | •[^d]               |                   |                      | •[^c]        |
+| GameVault          | •               | •                   |                   |                      | •            |
 | GOG                | •               | •                   | •                 | •                    | •            |
+| GOG OSS[^m]        | •               | •                   | •                 | •                    | •            |
 | Google Play Games  | •               |                     | •                 |                      |              |
-| Groupees           | •               | •[^d]               |                   |                      | •[^c]        |
+| Hikari Field       | •               |                     |                   |                      |              |
 | Humble             | •               | •                   |                   |                      | •            |
+| Humble Choice      |                 | •                   |                   |                      |              |
 | Humble Keys        |                 | •                   |                   |                      |              |
 | Indiegala          | •               | •                   | •                 |                      | •            |
 | itch.io            | •               | •                   | •                 |                      | •            |
 | JAST USA           | •               | •                   | •                 |                      |              |
 | LANCommander       | •               | •                   |                   |                      | •            |
 | Legacy Games       | •               | •[^a]               |                   |                      | •            |
-| Legendary          | •               | •                   | •                 | •                    | •            |
+| Legendary[^m]      | •               | •                   | •                 | •                    | •            |
+| Local Library[^n]  | •               | •                   |                   |                      | •            |
 | Microsoft XCloud   | •[^i]           | •                   | ?                 | ?                    |              |
-| MultiMC            | •               | •                   | ?                 |                      |              |
-| Nintendo           |                 | •[^f]               |                   |                      |              |
+| MultiMC[^l]        | •               | •                   | ?                 |                      |              |
+| Nile[^m]           | •               | •                   |                   |                      | •            |
+| Nintendo           |                 | •                   |                   |                      |              |
+| NowPlaying[^n]     | •               | •                   |                   |                      | •            |
 | NVIDIA GeForce Now | •[^i]           | •                   |                   |                      |              |
-| Oculus             | •               | •                   | •                 |                      |              |
+| Oculus/Meta        | •               | •                   | •                 |                      |              |
 | Playstation        |                 | •                   |                   | •[^k]                |              |
-| RAWG               | •               | •                   | •                 |                      |              |
+| RAWG               |                 | •                   | •                 |                      |              |
 | Robot Cache        | •               | •                   | •                 | ?                    | ?            |
 | Rockstar Games     | •               |                     |                   |                      | •            |
+| RomM[^n]           | •               | •                   |                   |                      | •            |
 | Steam              | •               | •                   | •                 | •                    | •            |
+| Steam Non Steam    | •               | •                   |                   |                      |              |
+| Stove              | •               | •                   | •                 |                      | •            |
 | Ubisoft Connect    | •               | •[^a]               | •                 |                      | •            |
+| Virtual Library    |                 |                     |                   |                      |              |
 | Viveport           | •               | •[^a]               | •                 |                      |              |
 | Xbox               | •               | •                   |                   | •                    | •            |
 
@@ -50,9 +62,10 @@
 [^a]: Reads local client files. Requires you to start up the client to add new games.
 [^c]: Manual installation only: you are pointed to a download URL and can link the game to an installation folder once you've installed it.
 [^d]: Only the games downloadable from the website (so excluding keys for Steam or other services)
-[^e]: No support for the EA Play games (subscription)
-[^f]: Only games purchased in the last 2 years, via https://ec.nintendo.com/my/transactions/1
 [^h]: Play time is always tracked when launched through Playnite
 [^i]: Not strictly speaking installed, but playable via streaming
 [^j]: Only games that were purchased, as there is no ownership for free games. But games followed on Game Jolt can be treated as owned if enabled in settings.
 [^k]: Playtime available only for PS4 and PS5 games
+[^l]: Minecraft instance importer
+[^m]: Makes using the original client unnecessary
+[^n]: Local or network drive game installer manager
