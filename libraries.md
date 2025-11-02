@@ -8,7 +8,7 @@
 | Battle.net         | •               | •                   | •                 |                      | •            |
 | Big Fish           | •               |                     |                   |                      |              |
 | DLsite             |                 | •                   | •                 |                      |              |
-| EA                 | •               | •                   |                   |                      | •            |
+| EA                 | •               | •                   |                   | •                    | •            |
 | EmuLibrary         | •               | •                   |                   |                      | •            |
 | Epic               | •               | •                   |                   | •                    | •            |
 | Fanatical          |                 | •                   |                   |                      |              |
